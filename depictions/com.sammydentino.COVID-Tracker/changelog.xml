@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>2.3.4-1</version>
+		<change>Transitioned from IPA to installable DEB package</change>
+	</changes>
+</changelog>

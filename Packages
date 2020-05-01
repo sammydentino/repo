@@ -1,28 +1,15 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.sammydentino.COVID-Tracker
+Version: 2.3.4
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Maintainer: Sammy Dentino
+Filename: ./debs/com.sammydentino.COVID-Tracker.deb
+Size: 3918540
+MD5sum: 4fa5a63e70bc7331326de63f59940aad
+SHA1: a49aba0a789bacc1d0fb029c4ae11eb8177c0026
+SHA256: 0b84b824ca994e5e4538f71fcdb75e0b9cb4b3134886d82c9b69ace411b5ed55
+Section: Applications
+Description: Live Case Statistics Globally, per Country, per State, and more!
+Author: Sammy Dentino
+Depiction: https://sammydentino.github.io/repo/depictions/?p=com.sammydentino.COVID-Tracker
+Name: COVID Tracker
 
