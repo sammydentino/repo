@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>2.4.1-1</version>
+		<change>Updated Global/Map View</change>
+	</changes>
+	<changes>
 		<version>2.4-1</version>
 		<change>Added a map view to the Global Tab</change>
 	</changes>
