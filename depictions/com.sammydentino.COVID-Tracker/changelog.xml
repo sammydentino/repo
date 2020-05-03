@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>2.4.2-1</version>
+		<change>Version Bump/fix crash</change>
+	</changes>
+	<changes>
 		<version>2.4.1-1</version>
 		<change>Updated Global/Map View</change>
 	</changes>
