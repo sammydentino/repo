@@ -1,5 +1,11 @@
 <changelog>
 	<changes>
+		<version>2.5</version>
+		<change>Added Counties</change>
+		<change>Combined States, Counties, and Testing into one Tab</change>
+		<change>Updated News Source</change>
+	</changes>
+	<changes>
 		<version>2.4.2-1</version>
 		<change>Version Bump/fix crash</change>
 	</changes>
