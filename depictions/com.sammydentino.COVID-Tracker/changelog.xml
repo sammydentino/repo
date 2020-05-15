@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>3.0</version>
+		<change>Added Timeline Tab</change>
+	</changes>
+	<changes>
 		<version>2.5.2</version>
 		<change>Version Bump/fix crash (Updated Sources, Added Percentage Statistics to Country/State/County Pages)</change>
 	</changes>

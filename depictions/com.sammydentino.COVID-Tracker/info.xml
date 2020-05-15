@@ -1,7 +1,7 @@
 <package>
 	<id>com.sammydentino.COVID-Tracker</id>
 	<name>COVID Tracker</name>
-	<version>2.5.1</version>
+	<version>3.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -28,7 +28,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Version Bump/fix crash (Updated Sources, Added Percentage Statistics to Country/State/County Pages)</change>
+		<change>Added Timeline Tab</change>
 	</changelog>
 	<links>
 		<link>
