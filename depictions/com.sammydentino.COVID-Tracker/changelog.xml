@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>3.0.1</version>
+		<change>Updated Timeline Tab & UI Fixes</change>
+	</changes>
+	<changes>
 		<version>3.0</version>
 		<change>Added Timeline Tab</change>
 	</changes>
