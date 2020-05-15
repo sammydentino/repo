@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>2.5.1</version>
+		<change>Updated Sources</change>
+		<change>Added Percentage Statistics to Country/State/County Pages</change>
+	</changes>
+	<changes>
 		<version>2.5</version>
 		<change>Added Counties</change>
 		<change>Combined States, Counties, and Testing into one Tab</change>
