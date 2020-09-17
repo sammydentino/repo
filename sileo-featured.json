@@ -1,12 +1,12 @@
 {
   "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
+  "itemSize": "{148, 148}",
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/syns/repo.me/master/assets/Banners/RepoHeader.png",
-        "title": "Sample Package",
-        "package": "me.syns.samplepackage",
+        "url": "https://raw.githubusercontent.com/sammydentino/repo/master/covidtrack.png",
+        "title": "COVID Tracker",
+        "package": "com.sammydentino.COVID-Tracker",
         "hideShadow": false
     }
   ]
