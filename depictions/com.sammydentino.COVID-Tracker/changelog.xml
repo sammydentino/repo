@@ -1,0 +1,45 @@
+<changelog>
+	<changes>
+		<version>3.0.5</version>
+		<change>Major source code cleanup and rework (versions 3.0.2 - 3.0.4 were purely testing betas)</change>
+	</changes>
+	<changes>
+		<version>3.0.1</version>
+		<change>Updated Timeline Tab & UI Fixes</change>
+	</changes>
+	<changes>
+		<version>3.0</version>
+		<change>Added Timeline Tab</change>
+	</changes>
+	<changes>
+		<version>2.5.2</version>
+		<change>Version Bump/fix crash (Updated Sources, Added Percentage Statistics to Country/State/County Pages)</change>
+	</changes>
+	<changes>
+		<version>2.5.1</version>
+		<change>Updated Sources</change>
+		<change>Added Percentage Statistics to Country/State/County Pages</change>
+	</changes>
+	<changes>
+		<version>2.5</version>
+		<change>Added Counties</change>
+		<change>Combined States, Counties, and Testing into one Tab</change>
+		<change>Updated News Source</change>
+	</changes>
+	<changes>
+		<version>2.4.2-1</version>
+		<change>Version Bump/fix crash</change>
+	</changes>
+	<changes>
+		<version>2.4.1-1</version>
+		<change>Updated Global/Map View</change>
+	</changes>
+	<changes>
+		<version>2.4-1</version>
+		<change>Added a map view to the Global Tab</change>
+	</changes>
+	<changes>
+		<version>2.3.4-1</version>
+		<change>Transitioned from IPA to installable DEB package</change>
+	</changes>
+</changelog>
