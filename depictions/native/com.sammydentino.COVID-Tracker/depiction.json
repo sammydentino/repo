@@ -7,7 +7,7 @@
 				{
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "COVIDTracker",
+					"title": "COVID Tracker",
 					"class": "DepictionSubheaderView"
 				},
 				{
@@ -26,8 +26,32 @@
 							"accessibilityText": "Screenshot0"
 						},
 						{
-							"url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/sources.PNG",
+							"url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/map.PNG",
 							"accessibilityText": "Screenshot1"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/timeline.PNG",
+							"accessibilityText": "Screenshot2"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/sources.PNG",
+							"accessibilityText": "Screenshot3"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/country.PNG",
+							"accessibilityText": "Screenshot4"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/state.PNG",
+							"accessibilityText": "Screenshot5"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/county.PNG",
+							"accessibilityText": "Screenshot6"
+						},
+						{
+							"url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/news.PNG",
+							"accessibilityText": "Screenshot7"
 						}
 					],
 					"itemSize": "{160, 275.41333333333336}",
@@ -38,7 +62,7 @@
 					"useBoldText": true,
 					"useBottomMargin": false,
 					"title": "markdown-description",
-					"markdown": "* Please view the sources tab for information about where the data is accessed from! *\r\n\r\nView live case information for COVID-19.\r\n\r\nWith this, you are able to view live cases, deaths, recovered, and more all from your iOS device! \r\n\r\nIncluded are statistics for Global, Countries, States, and Counties along with a news page with COVID related articles, timeline view of cases, deaths, and recovered, and a map view to view cases on the global map!",
+					"markdown": "* Please view the sources tab for information about where the data is accessed from! *\\r\\n\\r\\nView live case information for COVID-19.\\r\\n\\r\\nWith this, you are able to view live cases, deaths, recovered, and more all from your iOS device! \\r\\n\\r\\nIncluded are statistics for Global, Countries, States, and Counties along with a news page with COVID related articles, timeline view of cases, deaths, and recovered, and a map view to view cases on the global map!",
 					"class": "DepictionMarkdownView"
 				},
 				{
