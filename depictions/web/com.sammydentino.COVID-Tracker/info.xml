@@ -26,6 +26,30 @@
 			<description>Sources Page</description>
 			<image>sources.PNG</image>
 		</screenshot>
+		<screenshot>
+			<description>Map Page</description>
+			<image>map.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>Timeline Page</description>
+			<image>timeline.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>Country Page</description>
+			<image>country.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>State Page</description>
+			<image>state.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>County Page</description>
+			<image>county.PNG</image>
+		</screenshot>
+		<screenshot>
+			<description>News Page</description>
+			<image>news.PNG</image>
+		</screenshot>
 	</screenshots>
 	<changelog>
 		<change>Major source code cleanup and rework (versions 3.0.2 - 3.0.4 were purely testing betas)</change>
