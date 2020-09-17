@@ -62,7 +62,7 @@
 					"useBoldText": true,
 					"useBottomMargin": false,
 					"title": "markdown-description",
-					"markdown": "* Please view the sources tab for information about where the data is accessed from! *\\r\\n\\r\\nView live case information for COVID-19.\\r\\n\\r\\nWith this, you are able to view live cases, deaths, recovered, and more all from your iOS device! \\r\\n\\r\\nIncluded are statistics for Global, Countries, States, and Counties along with a news page with COVID related articles, timeline view of cases, deaths, and recovered, and a map view to view cases on the global map!",
+					"markdown": "* Please view the sources tab for information about where the data is accessed from! *\r\n\r\nView live case information for COVID-19.\r\n\r\nWith this, you are able to view live cases, deaths, recovered, and more all from your iOS device! \r\n\r\nIncluded are statistics for Global, Countries, States, and Counties along with a news page with COVID related articles, timeline view of cases, deaths, and recovered, and a map view to view cases on the global map!",
 					"class": "DepictionMarkdownView"
 				},
 				{
