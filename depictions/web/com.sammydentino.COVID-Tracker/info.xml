@@ -60,5 +60,10 @@
 			<url>https://sammydentino.github.io/repo</url>
 			<iconclass>fa fa-github</iconclass>
 		</link>
+		<link>
+			<name>Twitter - @sammydentino</name>
+			<url>https://twitter.com/sammydentino</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
 	</links>
 </package>
