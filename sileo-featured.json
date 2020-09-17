@@ -5,7 +5,7 @@
   "banners": [
     {
         "url": "https://raw.githubusercontent.com/sammydentino/repo/master/covidtrack.png",
-        "title": "COVID-19",
+        "title": "COVID Tracker",
         "package": "com.sammydentino.COVID-Tracker",
         "hideShadow": false
     }
