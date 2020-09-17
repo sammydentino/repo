@@ -1,0 +1,78 @@
+{
+	"tabs": [
+		{
+			"tabname": "Details",
+			"class": "DepictionStackView",
+			"views": [
+				{
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "COVIDTracker",
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "Live Case Statistics Globally, per Country, per State, and more!",
+					"class": "DepictionMarkdownView",
+					"useSpacing": true
+				},
+				{
+					"spacing": 8,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"screenshots": [
+						{
+							"url": "",
+							"accessibilityText": "Screenshot0"
+						}
+					],
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView"
+				},
+				{
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "markdown-description",
+					"markdown": "Live Case Statistics Globally, per Country, per State, and more!",
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"text": "3.0.5",
+					"title": "Version",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "09-17-2020",
+					"title": "Released",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "Free",
+					"title": "Price",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"spacing": 8,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"text": "Sammy Dentino",
+					"title": "Developer",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"spacing": 8,
+					"class": "DepictionSpacerView"
+				}
+			]
+		}
+	],
+	"tintColor": "#0657bb",
+	"class": "DepictionTabView",
+	"headerImage": "",
+	"minVersion": "0.1"
+}
