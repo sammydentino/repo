@@ -1,10 +1,10 @@
 <package>
 	<id>com.sammydentino.COVID-Tracker</id>
 	<name>COVID Tracker</name>
-	<version>3.0.6</version>
+	<version>4.0.1</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
+			<miniOS>14.0</miniOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
