@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>4.0.4</version>
+		<change>UI fixes</change>
+	</changes>
+	<changes>
 		<version>4.0.3</version>
 		<change>UI fixes</change>
 	</changes>
