@@ -1,7 +1,7 @@
 <package>
 	<id>com.sammydentino.COVID-Tracker</id>
 	<name>COVID Tracker</name>
-	<version>4.0.6</version>
+	<version>4.0.7</version>
 	<compatibility>
 		<firmware>
 			<miniOS>14.0</miniOS>

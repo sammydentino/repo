@@ -27,35 +27,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/global.PNG"
-                        },
-                        {
-                            "accessibilityText": "Screenshot1",
-                            "url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/map.PNG"
-                        },
-                        {
-                            "accessibilityText": "Screenshot2",
-                            "url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/timeline.PNG"
-                        },
-                        {
-                            "accessibilityText": "Screenshot3",
-                            "url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/sources.PNG"
-                        },
-                        {
-                            "accessibilityText": "Screenshot4",
-                            "url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/country.PNG"
-                        },
-                        {
-                            "accessibilityText": "Screenshot5",
-                            "url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/state.PNG"
-                        },
-                        {
-                            "accessibilityText": "Screenshot6",
-                            "url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/county.PNG"
-                        },
-                        {
-                            "accessibilityText": "Screenshot7",
-                            "url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/news.PNG"
+                            "url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/newhome.PNG"
                         }
                     ]
                 },
@@ -70,7 +42,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "4.0.6",
+                    "text": "4.0.7",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
