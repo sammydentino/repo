@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>4.1.5</version>
+		<change>Fixed about page buttons</change>
+	</changes>
+	<changes>
 		<version>4.1.4</version>
 		<change>Fixed dark mode views</change>
 	</changes>
