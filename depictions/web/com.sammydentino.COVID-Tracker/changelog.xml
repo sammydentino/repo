@@ -1,5 +1,11 @@
 <changelog>
 	<changes>
+		<version>4.2.0</version>
+		<change>Happy 4/20 :)</change>
+		<change>Added state vaccination data</change>
+		<change>Vaccination data is now shown on it's respective page, with country data showing on the countries page and state data showing on the states page</change>
+	</changes>
+	<changes>
 		<version>4.1.6</version>
 		<change>UI fixes</change>
 	</changes>
