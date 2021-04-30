@@ -27,7 +27,7 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/newhome.PNG"
+                            "url": "https://raw.githubusercontent.com/sammydentino/repo/master/depictions/web/com.sammydentino.COVID-Tracker/screenshots/newhomeupdated.PNG"
                         }
                     ]
                 },
@@ -42,7 +42,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "4.2.2",
+                    "text": "4.2.3",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },

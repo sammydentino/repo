@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>4.2.3</version>
+		<change>Updated state vaccination pages</change>
+	</changes>
+	<changes>
 		<version>4.2.2</version>
 		<change>Added more data to state vaccination pages</change>
 	</changes>
