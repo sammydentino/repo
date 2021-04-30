@@ -72,7 +72,7 @@
             ]
         }
     ],
-    "tintColor": "#33caff",
+    "tintColor": "#00e73a",
     "headerImage": "https://raw.githubusercontent.com/sammydentino/repo/master/covidtracker.png",
     "class": "DepictionTabView"
 }
