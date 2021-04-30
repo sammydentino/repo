@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>4.3</version>
+		<change>New app icon</change>
+	</changes>
+	<changes>
 		<version>4.2.3</version>
 		<change>Updated state vaccination pages</change>
 	</changes>

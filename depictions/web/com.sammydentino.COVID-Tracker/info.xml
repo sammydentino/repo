@@ -1,7 +1,7 @@
 <package>
 	<id>com.sammydentino.COVID-Tracker</id>
 	<name>COVID Tracker</name>
-	<version>4.2.3</version>
+	<version>4.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>14.0</miniOS>
@@ -19,40 +19,12 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Global Page</description>
-			<image>global.PNG</image>
-		</screenshot>
-		<screenshot>
-			<description>Sources Page</description>
-			<image>sources.PNG</image>
-		</screenshot>
-		<screenshot>
-			<description>Map Page</description>
-			<image>map.PNG</image>
-		</screenshot>
-		<screenshot>
-			<description>Timeline Page</description>
-			<image>timeline.PNG</image>
-		</screenshot>
-		<screenshot>
-			<description>Country Page</description>
-			<image>country.PNG</image>
-		</screenshot>
-		<screenshot>
-			<description>State Page</description>
-			<image>state.PNG</image>
-		</screenshot>
-		<screenshot>
-			<description>County Page</description>
-			<image>county.PNG</image>
-		</screenshot>
-		<screenshot>
-			<description>News Page</description>
-			<image>news.PNG</image>
+			<description>Home</description>
+			<image>newhomeupdated.PNG</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Updated state vaccination pages</change>
+		<change>New app icon</change>
 	</changelog>
 	<links>
 		<link>

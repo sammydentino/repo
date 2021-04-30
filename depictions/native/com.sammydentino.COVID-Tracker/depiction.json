@@ -42,12 +42,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "text": "4.2.3",
+                    "text": "4.3",
                     "title": "Version",
                     "class": "DepictionTableTextView"
                 },
                 {
-                    "text": "04-22-2021",
+                    "text": "04-30-2021",
                     "title": "Released",
                     "class": "DepictionTableTextView"
                 },
@@ -73,6 +73,6 @@
         }
     ],
     "tintColor": "#33caff",
-    "headerImage": "https://raw.githubusercontent.com/sammydentino/repo/master/covidtrack.png",
+    "headerImage": "https://raw.githubusercontent.com/sammydentino/repo/master/covidtracker.png",
     "class": "DepictionTabView"
 }
