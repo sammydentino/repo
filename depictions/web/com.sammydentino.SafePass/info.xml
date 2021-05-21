@@ -1,0 +1,40 @@
+<package>
+	<id>com.sammydentino.COVID-Tracker</id>
+	<name>SafePass</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription>Personal COVID-19 Vaccination Record</shortDescription>
+	<descriptionlist>
+		<description>Personal COVID-19 Vaccination Record</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>SafePass</description>
+			<image>pass.PNG</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial build</change>
+	</changelog>
+	<links>
+		<link>
+			<name>GitHub</name>
+			<url>https://sammydentino.github.io/repo</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+		<link>
+			<name>Twitter - @sammydentino</name>
+			<url>https://twitter.com/sammydentino</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+	</links>
+</package>
